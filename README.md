@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Devith 👋
 
-<!--
-**Devith01/Devith01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Branch:** CSE (Health Informatics)  
+🏫 **College:** VIT Bhopal University  
+📅 **Year:** 1st Year  
 
-Here are some ideas to get you started:
+💡 About Me
+I am a first-year student in Computer Science Engineering (Health Informatics) at VIT Bhopal.  
+I am passionate about technology and interested in learning how computing can improve healthcare systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Goals
+- Learn programming and problem-solving  
+- Understand AI and its applications in healthcare  
+- Build useful and real-world projects  
+- Improve my technical and analytical skills 
+
+📚 Currently Learning
+- Programming basics (C / Python)  
+- Data Structures (beginner level)  
+- Basics of Artificial Intelligence  
+- Digital Literacy and tools  
+
+🌟 Future Plan
+I aim to develop strong technical skills and apply them in the healthcare domain.  
+Over the next few years, I plan to work on innovative projects and prepare for internships and career opportunities.
