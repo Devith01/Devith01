@@ -2,7 +2,7 @@
 
 🎓 **Branch:** CSE (Health Informatics)  
 🏫 **College:** VIT Bhopal University  
-📅 **Year:** 1st Year  
+📅 **Year:** 2st Year  
 
 💡 About Me
 I am a first-year student in Computer Science Engineering (Health Informatics) at VIT Bhopal.  
